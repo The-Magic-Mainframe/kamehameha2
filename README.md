@@ -1,5 +1,5 @@
 # kamehameha2
-Welcome to the home of mainframe counter-culture.
+Welcome to the home of modern mainframe counter-culture.
 
 ## About
 This website was created by The Magic Mainframe, a
